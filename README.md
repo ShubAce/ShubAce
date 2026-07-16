@@ -32,7 +32,7 @@
 name      : Shubham Suman
 institute : IIT Kharagpur
 degree    : B.Tech (Hons.) Civil + M.Tech Env. Engg.
-cgpa      : 8.07 / 10.0  |  Graduating: 2028
+Graduating: 2028
 
 roles:
   - Generative AI & Agentic Workflows Engineer
@@ -41,7 +41,7 @@ roles:
 
 interests:
   - Multi-Agent LLM Systems & RAG Architectures
-  - LLM Fine-tuning (QLoRA · PEFT · RLHF)
+  - LLM Fine-tuning 
   - Real-time Systems & High-concurrency Backends
   - Recommender Systems & Stochastic Optimization
 
