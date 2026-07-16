@@ -51,7 +51,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓_IIT_Kharagpur-Dual_Degree_(B.Tech_Hons_+_M.Tech)-7aa2f7?style=for-the-badge&labelColor=0d1117" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/📈_CGPA-8.07_/_10.0-bb9af7?style=for-the-badge&labelColor=0d1117" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/📅_Graduating-2028-9ece6a?style=for-the-badge&labelColor=0d1117" />
 </p>
 
@@ -240,6 +239,6 @@
 
 <p align="center">
   <a href="mailto:23CE36011@iitkgp.ac.in">
-    <img src="https://img.shields.io/badge/📬_Let's_Connect-23CE36011%40iitkgp.ac.in-7aa2f7?style=for-the-badge&labelColor=0d1117" height="40" />
+    <img src="https://img.shields.io/badge/📬_Let's_Connect-jobshubham2005@gmail.com-7aa2f7?style=for-the-badge&labelColor=0d1117" height="40" />
   </a>
 </p>
