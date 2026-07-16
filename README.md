@@ -1,150 +1,259 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=280&section=header&text=Shubham%20Suman&desc=IIT%20Kharagpur%20%7C%20GenAI%20%7C%20Full-Stack%20%7C%20AI%2FML&fontSize=56&fontColor=c0caf5&descSize=20&descAlignY=73&animation=twinkling&fontAlignY=42&descAlignX=50" width="100%" />
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SHUBHAM%20SUMAN&fontSize=48&theme=tokyonight&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=7aa2f7&center=true&vCenter=true&multiline=false&width=680&lines=🎓+Dual+Degree+%40+IIT+Kharagpur+(2028);🤖+GenAI+%26+Agentic+Workflows+Engineer;🚀+Full-Stack+Developer+%7C+Next.js+%7C+MERN;🧠+LLM+Fine-Tuner+%7C+RAG+%7C+Multi-Agent+Systems;📊+ML+%26+Stochastic+Optimization+Specialist" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=M.Tech+Dual+Degree+@+IIT+Kharagpur;GenAI+%26+Agentic+Workflows+Engineer;Full+Stack+Developer+(Next.js+%2F+MERN);AI%2FML+%26+Optimization+Specialist" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/shubham-suman">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/shubham-suman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jobshubham2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/ShubAce">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ShubAce&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-### 👋 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-I am a **Dual Degree (B.Tech Hons + M.Tech)** student at **IIT Kharagpur** (expected graduation 2028). I specialize in designing and engineering high-impact software systems, **Agentic GenAI workflows**, and robust **Machine Learning** models. 
+## 🧬 About Me
 
-*   🏫 **Institution:** Indian Institute of Technology, Kharagpur
-*   🎓 **Specialization:** B.Tech (Hons.) in Civil Engineering & M.Tech in Environmental Engineering and Management
-*   📈 **CGPA:** 8.07 / 10
-*   💡 **Interest Areas:** Agentic AI, Multi-Agent Systems, High-Performance Full-Stack Architectures, Recommender Systems, and Stochastic Optimization.
+```yaml
+name       : Shubham Suman
+institute  : Indian Institute of Technology, Kharagpur
+degree     : B.Tech (Hons.) Civil Engg. + M.Tech Environmental Engg. & Management
+cgpa       : 8.07 / 10.0
+graduation : 2028
+location   : Kharagpur, West Bengal, India
+
+specializations:
+  - Agentic AI & Multi-Agent LLM Systems
+  - Generative AI · RAG · Fine-tuning · Prompt Engineering
+  - Full-Stack Engineering (Next.js · MERN · FastAPI)
+  - Machine Learning · Recommender Systems · Optimization
+  - Real-Time Systems · WebSockets · Redis · Bull Queues
+
+currently_building:
+  - 🤖  Multi-Agent RAG Research Assistants with LangGraph
+  - 🏛️  Fine-tuned Legal LLMs (Nyaya-7B on Mistral-7B)
+  - 🎬  Hybrid Recommender Systems with cold-start handling
+  - ⚡   Real-time Collaborative Dev Tools (CollabBoard)
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ⚡ Tech Arsenal
+
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,html,css,sql&theme=dark" />
+</p>
+
+<h3 align="center">Frontend & UI</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" />
+</p>
+
+<h3 align="center">Backend & Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,postgres,mongodb,redis,prisma&theme=dark" />
+</p>
+
+<h3 align="center">AI · ML · LLM Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+</p>
+
+<h3 align="center">DevOps & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode&theme=dark" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎛️ Explore My Tracks
+
+> 🔍 **Click a track to dive into tailored projects, experience & achievements:**
+
+<details>
+<summary>
+  <h3>🚀 &nbsp; Software Development Engineer (SDE)</h3>
+</summary>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20Real--Time%20Systems%20%7C%20High%20Concurrency-7aa2f7?style=for-the-badge" />
+</p>
+
+#### 🌟 Projects
+
+| Project | Tech Stack | Highlights |
+|---|---|---|
+| **CollabBoard** — Real-Time Collaborative Workspace | `MERN` `Socket.io` `Redis` `Bull` | Kanban + Whiteboard + Threaded Chat; JWT token rotation, Redis blacklisting & TTL-based presence |
+| **LearnCode** — AI-Assisted Coding Platform | `Next.js` `Prisma` `TypeScript` `Docker` `Judge0` `Gemini` `Clerk` | In-browser Monaco Editor; context-aware AI hints; RBAC; dockerized deployment |
+
+#### 💼 Experience
+**Insights & Research Intern** — *Convosight Analytics Pvt. Ltd.* &nbsp; `Sept '25 – Nov '25`
+- Contributed to insight generation pipelines using **Convotrack**, improving operational productivity.
+- Implemented agentic systems with clean MVC patterns and robust error-handling pipelines.
+
+#### 🛠️ SDE Key Skills
+`MERN Stack` `Next.js` `TypeScript` `Socket.io` `Redis Pub/Sub` `Bull Queues` `JWT` `Prisma ORM` `Docker` `REST APIs`
+
+</details>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+<details>
+<summary>
+  <h3>🧠 &nbsp; Generative AI & Agentic Systems</h3>
+</summary>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Multi--Agent%20LLMs%20%7C%20RAG%20%7C%20Fine--Tuning%20%7C%20Agentic%20Workflows-bb9af7?style=for-the-badge" />
+</p>
+
+#### 🌟 Projects
+
+| Project | Tech Stack | Impact |
+|---|---|---|
+| **Nyaya-7B** — Legal AI (Fine-tuned LLM) | `Mistral-7B` `QLoRA` `LangGraph` `FastAPI` `HuggingFace` | 87% ↓ hallucination · 3.2× ↑ accuracy vs Gemini Flash · 1,600+ court judgments |
+| **ResearchMind** — Multi-Agent RAG Assistant | `LangGraph` `Celery` `Redis` `ChromaDB` `Tavily` `ArXiv` | 40% ↓ hallucination (RAGAS) · 60% ↓ latency via async parallel agents · Hybrid BM25 + Dense RRF |
+
+#### 🔬 Architecture Highlights
+- **Nyaya-7B**: QLoRA fine-tuning → LangGraph extraction pipeline → structured JSON from PDFs → Hugging Face published
+- **ResearchMind**: Parallel agent orchestration → BM25 + Dense retrieval → Cohere reranking → Critic loop validation
+
+#### 💼 Experience
+**Insights & Research Intern** — *Convosight Analytics Pvt. Ltd.* &nbsp; `Sept '25 – Nov '25`
+- Engineered autonomous **LangGraph** AI agents for trigger email generation → **65% ↓** manual effort, **60% ↑** turnaround.
+- Built Agentic research workflows for automated data processing → **40% ↑** reporting cycle speed.
+
+#### 🛠️ GenAI Key Skills
+`LangGraph` `LangChain` `CrewAI` `n8n` `QLoRA` `RAG` `RAGAS` `ChromaDB` `FAISS` `Cohere` `Tavily` `Mistral` `Gemini` `Prompt Engineering`
+
+</details>
+
+---
+
+<details>
+<summary>
+  <h3>📊 &nbsp; Artificial Intelligence & Machine Learning</h3>
+</summary>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Predictive%20Modeling%20%7C%20Deep%20Learning%20%7C%20Recommender%20Systems%20%7C%20Stochastic%20Optimization-9ece6a?style=for-the-badge" />
+</p>
+
+#### 🌟 Projects
+
+| Project | Tech Stack | Results |
+|---|---|---|
+| **Survival Analysis** — Credit Default Risk | `Cox PH` `XGBoost AFT` `DeepHit` `FastAPI` `SHAP` | 0.888 C-index · IBS 0.068 on 61K test set · 307K loan records · SHAP explainability |
+| **HybridRec** — Movie Recommender System | `SVD` `PyTorch` `MLflow` `FastAPI` `Next.js` | 8× catalog coverage · Cold-start via MLP preference elicitation · <15ms latency |
+| **Critical Scour Prediction** — Stacking Ensemble | `XGBoost` `LightGBM` `CatBoost` `Optuna` | R² = **0.987** (ref paper: 0.902) · RMSE ↓ **72%** |
+
+#### 💼 Experience
+**Research Intern** — *IIM Mumbai* &nbsp; `May '25 – Jul '25`
+- Designed a **two-stage stochastic optimization** model for multi-echelon supply chains under 5 uncertainty types.
+- Generated 243 scenarios, K-Means reduced to 15 representative clusters.
+- Integrated **Quantile Neural Networks (QNN/IQNN)** for hybrid optimization-ML cost approximation.
+
+#### 🛠️ AI/ML Key Skills
+`PyTorch` `TensorFlow` `Scikit-Learn` `XGBoost` `LightGBM` `CatBoost` `Optuna` `SHAP` `MLflow` `DeepHit` `Survival Analysis` `Stochastic Optimization`
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,html,css" alt="Languages" /><br>
-  <!-- Frontend & Styling -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend" /><br>
-  <!-- Backend & Database -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,postgres,mongodb,redis,prisma,sqlite" alt="Backend & DB" /><br>
-  <!-- ML & Tools -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,git,github,postman" alt="ML & Tools" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShubAce&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
----
-
-## 🎛️ Choose Your Track
-
-*Select a track below to explore tailored projects, internships, and skill domains:*
-
-<details>
-<summary><b>🚀 Software Development Engineer (SDE) Track</b></summary>
-<br>
-
-> Full-stack architecture, real-time socket communication, message queues, and high-concurrency systems.
-
-### 🌟 SDE Projects
-
-*   **CollabBoard | Real-Time Collaborative Workspace** *(Apr '26 - May '26)*
-    *   **Tech Stack:** `MongoDB`, `Express.js`, `React`, `Node.js` (MERN), `Socket.io`, `Redis (Pub/Sub + TTL)`, `Bull Queues`
-    *   Engineered a collaborative workspace with real-time Kanban boards, shared whiteboards, and threaded chat.
-    *   Configured secure **JWT authentication with token rotation**, Redis token blacklisting, and Bull queues for asynchronous email notifications.
-    *   Implemented a real-time presence and task tracking system using **Redis TTL** and a unified "My Work" dashboard.
-
-*   **LearnCode | AI-Assisted & Competitive Programming Platform** *(Mar '26 - Apr '26)*
-    *   **Tech Stack:** `Next.js`, `Prisma ORM`, `TypeScript`, `Docker`, `Monaco Editor`, `Judge0 API`, `Gemini API`, `Clerk`
-    *   Architected a competitive coding platform with an in-browser code editor powered by Judge0 API.
-    *   Built an in-app AI coding assistant powered by **Gemini** for context-aware hints and intelligent debugging.
-    *   Implemented a type-safe backend with **Prisma**, Clerk authentication, Role-Based Access Control (RBAC), and dockerized deployment.
-
-### 💼 SDE Experience
-
-*   **Insights and Research Intern** | *Convosight Analytics Private Limited* *(Sept '25 - Nov '25)*
-    *   Contributed to insight generation pipelines using **Convotrack**, streamlining business processes and improving operational productivity.
-    *   Implemented agentic systems with clean MVC patterns and robust error-handling pipelines.
-</details>
-
-<details>
-<summary><b>🧠 Generative AI & Agents Track</b></summary>
-<br>
-
-> Multi-agent orchestration, LLM fine-tuning, advanced RAG architectures, and autonomous workflows.
-
-### 🌟 GenAI Projects
-
-*   **Nyaya-7B Legal AI | Finetuned LLM for Legal Judgment Parsing** *(Mar '26)*
-    *   **Tech Stack:** `Mistral-7B`, `QLoRA`, `LangGraph`, `FastAPI`, `Streamlit`, `Hugging Face`
-    *   Fine-tuned Mistral-7B with QLoRA on **1,600+ Indian court judgments**, achieving **87% lower hallucination** and **3.2x higher accuracy** than Gemini 2.5 Flash.
-    *   Developed a **LangGraph multi-agent** legal information extraction pipeline to convert unstructured PDF judgments into structured, searchable JSON.
-    *   Published Nyaya-7B model weights on Hugging Face and developed stream-lit application for real-time analysis.
-
-*   **ResearchMind | Multi-Agent RAG Research Assistant** *(May '26)*
-    *   **Tech Stack:** `LangGraph`, `FastAPI`, `Celery`, `Redis`, `ChromaDB`, `Next.js`, `Tavily API`, `ArXiv API`
-    *   Designed a multi-agent RAG system using LangGraph that orchestrates parallel Tavily/ArXiv retrieval, cited answer synthesis, and correction via a Critic loop.
-    *   Engineered a hybrid **BM25 + dense retrieval** pipeline with Reciprocal Rank Fusion (RRF) and Cohere reranking, reducing hallucination by 40% (validated using RAGAS).
-    *   Reduced latency by **60%** using async parallelized agents.
-
-### 💼 GenAI Experience
-
-*   **Insights and Research Intern** | *Convosight Analytics Private Limited* *(Sept '25 - Nov '25)*
-    *   Engineered autonomous AI agents using **LangGraph** for trigger email generation, reducing manual effort by **65%** and improving turnaround time by **60%**.
-    *   Developed Agentic research workflows for automated data processing and insight extraction, speeding up reporting cycles by **40%**.
-</details>
-
-<details>
-<summary><b>📊 AI & Machine Learning Track</b></summary>
-<br>
-
-> Predictive modeling, deep learning, recommender systems, and mathematical optimization.
-
-### 🌟 AI/ML Projects
-
-*   **Survival Analysis: Credit Default Risk Prediction** *(May '26)*
-    *   **Tech Stack:** `Python`, `Cox PH`, `XGBoost AFT`, `DeepHit`, `FastAPI`, `SHAP`
-    *   Developed a credit survival pipeline on **307K loan records** achieving **0.888 C-index** to model time-to-event default risk.
-    *   Engineered 226 features from 7 tables and modeled competing risks using Aalen-Johansen estimators.
-    *   Deployed predictions via FastAPI with **SHAP-based loan-level explainability**.
-    *   Optimized DeepHit with vectorized pairwise ranking loss, achieving an IBS of **0.068** on a 61K held-out test set.
-
-*   **HybridRec | Hybrid Movie Recommender System** *(Apr '26 - May '26)*
-    *   **Tech Stack:** `Next.js`, `FastAPI`, `SVD`, `Neural Content Embeddings`, `MLflow`, `PyTorch`
-    *   Built an end-to-end recommender on MovieLens 25M using SVD, neural content embeddings, and a fusion layer, achieving **8x catalog coverage**.
-    *   Solved the cold-start problem using a **preference elicitation MLP** to map 5 quiz answers to a 128-dimensional pseudo user vector.
-    *   Enabled personalized recommendations under **15 ms latency** for new users.
-
-*   **Critical Scour Prediction | Physics-Informed Stacking Ensemble** *(Mar '26 - Apr '26)*
-    *   **Tech Stack:** `XGBoost`, `LightGBM`, `CatBoost`, `ExtraTrees`, `Optuna`, `Scikit-Learn`
-    *   Engineered a stacking ensemble with Optuna tuning to predict critical shear stress in sediment.
-    *   Achieved an **$R^2$ of 0.987** (surpassing reference paper's 0.902) while reducing RMSE by **72%**.
-
-### 💼 AI/ML & Optimization Experience
-
-*   **Research Intern** | *IIM Mumbai* *(May '25 - Jul '25)*
-    *   Designed a two-stage stochastic optimization model for a multi-echelon supply chain, incorporating 5 types of uncertainty.
-    *   Generated 243 discrete scenarios and applied K-Means clustering to reduce them to 15 representative clusters.
-    *   Integrated **Quantile Neural Networks (QNN/IQNN)** into a hybrid optimization-ML framework to approximate complex second-stage costs.
-</details>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubAce&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubAce&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubAce&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubAce&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=c0caf5" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubAce&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubAce&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&langs_count=8" height="180px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubAce&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=c0caf5" height="180px" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShubAce/ShubAce/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎖️ Positions of Responsibility
+
+<table>
+<tr>
+<td width="50%">
+
+**🏛️ Maintenance Secretary**
+*Patel Hall of Residence, IIT Kharagpur*
+`Aug '24 – Apr '25`
+
+- Managed end-to-end logistics for the **Illumination** cultural event.
+- Organized hall-level events, promoting community engagement.
+
+</td>
+<td width="50%">
+
+**⚙️ Core Team Member — Megalith '25**
+*India's Largest Civil Tech Fest, IIT Kharagpur*
+`Jun '24 – Mar '25`
+
+- Led cross-functional coordination for 1000+ participant event.
+- Scaled **250+ Campus Ambassador** network nationwide.
+- Drove **56% YoY growth** in student participation.
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌟 Beyond the Code
+
+<p align="center">
+  🥈 <b>Silver Medal</b> — General Championship Street Play '25 (TSG, IIT Kharagpur)
+  &nbsp;|&nbsp;
+  🎨 <b>AD Design Team</b> — General Championship 2025, Patel Hall of Residence
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:0d1117&height=120&section=footer" width="100%">
+
+<p align="center">
+  <i>"Building systems that think, learn, and scale."</i><br><br>
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaborations-9ece6a?style=for-the-badge" />
+</p>
