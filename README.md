@@ -1,96 +1,80 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🌊  ANIMATED HEADER                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Shubham%20Suman&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=%E2%9C%A6%20IIT%20Kharagpur%20%E2%9C%A6%20GenAI%20%E2%9C%A6%20Full-Stack%20%E2%9C%A6%20AI%2FML%20%E2%9C%A6&descSize=18&descAlignY=68" width="100%" />
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Shubham%20Suman&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=IIT%20Kharagpur%20%20%C2%B7%20%20GenAI%20%20%C2%B7%20%20Full-Stack%20%20%C2%B7%20%20AI%2FML&descSize=18&descAlignY=68" width="100%" />
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ⌨️  TYPING SVG                                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
+<!-- TYPING -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=%F0%9F%92%AB+Building+AI+Agents+that+think+%26+act+autonomously;%F0%9F%94%A5+Fine-tuning+LLMs+with+1600%2B+domain+datasets;%F0%9F%9A%80+Engineering+real-time+full-stack+platforms;%F0%9F%8E%AF+Solving+complex+problems+with+ML+%26+Optimization;%E2%9C%A8+Open+to+SDE+%C2%B7+GenAI+%C2%B7+AI%2FML+roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Building+AI+agents+that+think+and+act+autonomously;Fine-tuning+LLMs+on+1600%2B+domain-specific+datasets;Engineering+real-time+full-stack+platforms+at+scale;Solving+complex+problems+with+ML+and+optimization;Open+to+SDE+%C2%B7+GenAI+%C2%B7+AI%2FML+opportunities" alt="Typing SVG" />
   </a>
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🔗  SOCIAL BADGES                                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
+<!-- SOCIAL -->
 <p align="center">
   <a href="https://linkedin.com/in/shubham-suman">
-    <img src="https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
   </a>&nbsp;&nbsp;
   <a href="mailto:jobshubham2005@gmail.com">
-    <img src="https://img.shields.io/badge/-%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/ShubAce">
-    <img src="https://img.shields.io/badge/-%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" />
   </a>&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ShubAce&style=for-the-badge&color=7aa2f7&label=VISITORS" height="35" />
+  <img src="https://komarev.com/ghpvc/?username=ShubAce&style=for-the-badge&color=7aa2f7&label=VISITORS" height="32" />
+</p>
+
+<br/>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+
+<!-- ABOUT -->
+<h2 align="center">About Me</h2>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IIT_Kharagpur-Dual_Degree-7aa2f7?style=for-the-badge&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Graduating-2028-9ece6a?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🧬  ABOUT ME                                                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🧬 &nbsp; Who Am I</h2>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🎓_IIT_Kharagpur-Dual_Degree_(B.Tech_Hons_+_M.Tech)-7aa2f7?style=for-the-badge&labelColor=0d1117" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/📅_Graduating-2028-9ece6a?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GenAI_Engineer-Multi--Agent_LLMs_·_RAG_·_Fine--Tuning-7aa2f7?style=flat-square&labelColor=0d1117" height="28" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Full--Stack_Developer-Next.js_·_MERN_·_FastAPI_·_Redis-bb9af7?style=flat-square&labelColor=0d1117" height="28" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/ML_Specialist-Deep_Learning_·_RecSys_·_Optimization-9ece6a?style=flat-square&labelColor=0d1117" height="28" />
 </p>
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖_GenAI_Engineer-Multi--Agent_LLMs_·_RAG_·_Fine--Tuning-7aa2f7?style=flat-square&labelColor=0d1117" height="30" /><br/><br/>
-  <img src="https://img.shields.io/badge/🚀_Full--Stack_Dev-Next.js_·_MERN_·_FastAPI_·_Redis-bb9af7?style=flat-square&labelColor=0d1117" height="30" /><br/><br/>
-  <img src="https://img.shields.io/badge/📊_ML_Specialist-Deep_Learning_·_RecSys_·_Optimization-9ece6a?style=flat-square&labelColor=0d1117" height="30" />
-</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+
+<!-- TECH STACK -->
+<h2 align="center">Tech Stack</h2>
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ⚡  TECH STACK                                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">⚡ &nbsp; Tech Arsenal</h2>
-
-<br/>
-
-<h4 align="center">⸻ &nbsp; Languages &nbsp; ⸻</h4>
+<h4 align="center">Languages</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,html,css&theme=dark&perline=6" />
 </p>
 
 <br/>
 
-<h4 align="center">⸻ &nbsp; Frontend · Backend · Databases &nbsp; ⸻</h4>
+<h4 align="center">Frontend · Backend · Databases</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express,fastapi,flask,postgres,mongodb,redis,prisma&theme=dark&perline=6" />
 </p>
 
 <br/>
 
-<h4 align="center">⸻ &nbsp; AI · ML · LLM Stack &nbsp; ⸻</h4>
+<h4 align="center">AI · ML · LLM Stack</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
 </p>
@@ -109,22 +93,17 @@
 
 <br/>
 
-<h4 align="center">⸻ &nbsp; DevOps · Tools &nbsp; ⸻</h4>
+<h4 align="center">DevOps · Tools</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode&theme=dark&perline=6" />
 </p>
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 💼  EXPERIENCE                                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">💼 &nbsp; Experience</h2>
+<!-- EXPERIENCE -->
+<h2 align="center">Experience</h2>
 
 <br/>
 
@@ -157,28 +136,15 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 📊  GITHUB STATS                                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📊 &nbsp; GitHub Stats</h2>
+<!-- GITHUB STATS -->
+<h2 align="center">GitHub Stats</h2>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubAce&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&count_private=true&include_all_commits=true" height="180px" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubAce&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89" height="180px" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubAce&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&langs_count=10" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubAce&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89" height="180" />
 </p>
 
 <br/>
@@ -189,33 +155,10 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆  TROPHIES                                                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏆 &nbsp; Trophies</h2>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShubAce&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍  SNAKE                                                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🐍 &nbsp; Watch My Contributions Get Eaten</h2>
+<!-- SNAKE -->
+<h2 align="center">Contribution Activity</h2>
 
 <br/>
 
@@ -225,10 +168,7 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🌊  FOOTER                                                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
+<!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%" />
 
 <p align="center">
@@ -238,7 +178,7 @@
 <br/>
 
 <p align="center">
-  <a href="mailto:23CE36011@iitkgp.ac.in">
-    <img src="https://img.shields.io/badge/📬_Let's_Connect-jobshubham2005@gmail.com-7aa2f7?style=for-the-badge&labelColor=0d1117" height="40" />
+  <a href="mailto:jobshubham2005@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_Connect-jobshubham2005%40gmail.com-7aa2f7?style=for-the-badge&labelColor=0d1117" height="38" />
   </a>
 </p>
