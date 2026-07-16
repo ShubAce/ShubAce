@@ -6,7 +6,7 @@
 <!-- TYPING -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Building+AI+agents+that+think+and+act+autonomously;Fine-tuning+LLMs+on+1600%2B+domain-specific+datasets;Engineering+real-time+full-stack+platforms+at+scale;Solving+complex+problems+with+ML+and+optimization;Open+to+SDE+%C2%B7+GenAI+%C2%B7+AI%2FML+opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Building+AI+agents+that+think+and+act+autonomously;Engineering+real-time+full-stack+platforms+at+scale;Solving+complex+problems+with+ML+and+optimization;Open+to+SDE+%C2%B7+GenAI+%C2%B7+AI%2FML+opportunities" alt="Typing SVG" />
   </a>
 </p>
 
